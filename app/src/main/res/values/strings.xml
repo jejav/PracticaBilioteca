@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracticaBilioteca</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id">Identificador</string>
+    <string name="libro">Nombre del Libro</string>
+    <string name="autor">Nombre de Autor</string>
+    <string name="persona">Usuario</string>
+    <string name="telefono">Teléfono</string>
+    <string name="crear">Crear</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="actualizar">Actualizar</string>
+</resources>
